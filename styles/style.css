@@ -1,3 +1,19 @@
-h1{
-    color: blue;
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.dd{
+    background-image: url(../styles/maarten-van-den-heuvel-Siuwr3uCir0-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.dd h1{
+    color:goldenrod ;
+    font-size: 200px;
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+    word-spacing: 20px;
+    padding-top: 40%;
 }
